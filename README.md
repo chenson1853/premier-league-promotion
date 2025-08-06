@@ -41,6 +41,16 @@ This project uses historical team performance data from England’s Championship
 
 ---
 
+## 📂 Scripts
+
+- [`champ_serieb_combined_script.R`](champ_serieb_combined_script.R)
+- [`clustering_script.R`](clustering_script.R)
+- [`pca_kmeans_script`](pca_kmeans_script.R)
+- [`modeling_script.R`](modeling_script.R)
+- [`visualization_script.R`](visualization_script.R)
+
+---
+
 ## 🚧 In Progress
 
 - Adding models to predict team survival based on clusters
@@ -52,6 +62,6 @@ This project uses historical team performance data from England’s Championship
 ## 👨‍💻 Author
 
 **Christopher Henson**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/chris-henson-ms)  
+[GitHub](https://github.com/chenson1853) | [LinkedIn](https://linkedin.com/in/chris-henson-ms)  
 Email: christopherlhenson89@gmail.com  
 Alexandria, VA
